@@ -1,0 +1,70 @@
+%\documentclass{KU2}
+\documentclass{kuisthesis}			% 特別研究報告書
+\usepackage{listings,jlisting}
+\usepackage{fancybox,ascmac}
+\usepackage{amsmath}
+\usepackage{tabularx}
+\usepackage[dvipdfmx]{graphicx}
+\usepackage{here}
+
+\lstset{%listings の表示設定
+breaklines = true,
+tabsize = 2,
+frame=single,
+basicstyle = \small,
+numbers=left,
+framexleftmargin=8mm,
+captionpos=b,
+numberstyle=\scriptsize,
+stepnumber=1,
+language = Java}
+
+\def\LATEX{{\rm (L\kern-.36em\raise.3ex\hbox{\sc a})\TeX}}
+\def\LATex{\iLATEX\small}
+\def\iLATEX#1{L\kern-.36em\raise.3ex\hbox{#1\bf A}\kern-.15em
+    T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}
+\def\LATEXe{\ifx\LaTeXe\undefined \LaTeX 2e\else\LaTeXe\fi}
+\def\LATExe{\ifx\LaTeXe\undefined \iLATEX\scriptsize 2e\else\LaTeXe\fi}
+\let\EM\bf
+\def\|{\verb|}
+\def\<{\(\langle\)}
+\def\>{\(\rangle\)}
+\def\CS#1{{\tt\string#1}}
+
+\jtitle[IoT環境における分散台帳技術の性能分析]%	% 和文題目（内容梗概／目次用）
+	{IoT環境における分散台帳技術の性能分析}	% 和文題目
+\etitle{Analysis of performance of distributed ledger technology in IoT environment}	% 英文題目
+\jauthor{渡辺 隆弘}				% 和文著者名
+\eauthor{Takahiro Watanabe}			% 英文著者名
+\supervisor{林　冬惠}			% 指導教員名
+\date{平成30年2月1日}				% 提出年月日
+\department{情報学研究科社会情報学専攻}				% 修士論文の場合の専攻名
+
+\begin{document}
+\maketitle
+
+\begin{jabstract}
+概要
+\end{jabstract}
+
+
+\tableofcontents
+
+\section{はじめに}\label{sec-intro}
+\section{背景}
+\section{定性的な指標}
+\section{定量的な指標}
+\section{定量的な分析}
+\section{考察}
+\section{まとめ}
+
+\acknowledgments
+謝辞
+
+\bibliographystyle{plain}
+\bibliography{ref.bib}
+
+\Appendix[付録]
+実装のソースコードを添付する．
+
+\end{document}
