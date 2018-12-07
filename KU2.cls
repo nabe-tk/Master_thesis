@@ -9,6 +9,8 @@
 %% strongly prohibited.
 %%
 
+\renewcommand\normalsize{\fontsize{50}{50}\selectfont}
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{KU2}
               [2018/01/24 v1.0e Kyoto University Dept of Social Informatics Thesis Class File]
@@ -24,7 +26,7 @@
    {\def\japanese{1}%
     \ifwindows\setCJKmainfont{Meiryo}%
     \iflinux\setCJKmainfont{TakaoMincho}%
-    \ifmacos\setCJKmainfont{Hiragino}%
+    \ifmacos\setCJKmainfont{ipaexm.ttf}%
 }
 % \DeclareOption{simsun}
 %    {\def\japanese{1}
@@ -34,7 +36,7 @@
     \setCJKmainfont{TakaoMincho}}
 \DeclareOption{macos}
    {\def\myOS{2}%
-   \setCJKmainfont{Hiragino}}
+   \setCJKmainfont{ipaexm.ttf}}
 \DeclareOption{windows}
    {\def\myOS{3}%
    \setCJKmainfont{Meiryo}}
