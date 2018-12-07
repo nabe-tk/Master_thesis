@@ -1,0 +1,66 @@
+\begin{thebibliography}{10}
+
+\bibitem{Atzori2010}
+Luigi Atzori, Antonio Iera, and Giacomo Morabito.
+\newblock {The Internet of Things: A survey}.
+\newblock {\em Computer Networks}, 54(15):2787--2805, 2010.
+
+\bibitem{Bouloukakis2016}
+Georgios Bouloukakis, Nikolaos Georgantas, Benjamin Billet, Georgios
+  Bouloukakis, Nikolaos Georgantas, and Benjamin~Billet Revisiting.
+\newblock {Revisiting Service-oriented Architecture for the IoT : A Middleware
+  Perspective To cite this version : Revisiting Service-oriented Architecture
+  for the IoT : A Middleware Perspective}.
+\newblock 2016.
+
+\bibitem{croman2016scaling}
+Kyle Croman, Christian Decker, Ittay Eyal, Adem~Efe Gencer, Ari Juels, Ahmed
+  Kosba, Andrew Miller, Prateek Saxena, Elaine Shi, Emin~G{\"u}n Sirer, et~al.
+\newblock On scaling decentralized blockchains.
+\newblock In {\em International Conference on Financial Cryptography and Data
+  Security}, pages 106--125. Springer, 2016.
+
+\bibitem{dorri2017towards}
+Ali Dorri, Salil~S Kanhere, and Raja Jurdak.
+\newblock Towards an optimized blockchain for iot.
+\newblock In {\em Proceedings of the Second International Conference on
+  Internet-of-Things Design and Implementation}, pages 173--178. ACM, 2017.
+
+\bibitem{Gubbi2013}
+Jayavardhana Gubbi, Rajkumar Buyya, Slaven Marusic, and Marimuthu Palaniswami.
+\newblock {Internet of Things (IoT): A vision, architectural elements, and
+  future directions}.
+\newblock {\em Future Generation Computer Systems}, 29(7):1645--1660, 2013.
+
+\bibitem{gubbi2013internet}
+Jayavardhana Gubbi, Rajkumar Buyya, Slaven Marusic, and Marimuthu Palaniswami.
+\newblock Internet of things (iot): A vision, architectural elements, and
+  future directions.
+\newblock {\em Future generation computer systems}, 29(7):1645--1660, 2013.
+
+\bibitem{kusmierz2017first}
+B~Kusmierz.
+\newblock The first glance at the simulation of the tangle: discrete model,
+  2017.
+
+\bibitem{nakamoto2008bitcoin}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system.
+\newblock 2008.
+
+\bibitem{popov2016tangle}
+Serguei Popov.
+\newblock The tangle.
+\newblock {\em cit. on}, page 131, 2016.
+
+\bibitem{Vermesan2009}
+Ovidiu Vermesan, Peter Friess, Patrick Guillemin, Sergio Gusmeroli, Harald
+  Sundmaeker, Alessandro Bassi, Ignacio~Soler Jubert, Margaretha Mazura, Mark
+  Harrison, Markus Eisenhauer, Pat Doody, Friess Peter, Guillemin Patrick,
+  Gusmeroli Sergio, Bassi {Harald, Sundmaeker Alessandro}, Jubert {Ignacio
+  Soler}, Mazura Margaretha, Harrison Mark, Eisenhauer Markus, and Doody Pat.
+\newblock {Internet of Things Strategic Research Roadmap}.
+\newblock {\em Internet of Things Strategic Research Roadmap}, pages 9--52,
+  2009.
+
+\end{thebibliography}

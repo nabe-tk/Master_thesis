@@ -1,10 +1,28 @@
 \contentsline {section}{\numberline {第1章}はじめに}{1}
-\contentsline {section}{\numberline {第2章}背景}{1}
-\contentsline {section}{\numberline {第3章}定性的な指標}{1}
-\contentsline {section}{\numberline {第4章}定量的な指標}{1}
-\contentsline {section}{\numberline {第5章}定量的な分析}{1}
-\contentsline {section}{\numberline {第6章}考察}{1}
-\contentsline {section}{\numberline {第7章}まとめ}{1}
-\contentsline {section}{\hbox to\@tempdima {\hfil }謝辞}{1}
+\contentsline {section}{\numberline {第2章}背景}{2}
+\contentsline {subsection}{\numberline {2.1}Internet of Things}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}IoT環境において求められる要件}{3}
+\contentsline {subsection}{\numberline {2.2}分散台帳}{4}
+\contentsline {subsubsection}{\numberline {2.2.1}Blockchain}{4}
+\contentsline {subsubsection}{\numberline {2.2.2}Ethereum}{5}
+\contentsline {subsubsection}{\numberline {2.2.3}IOTA}{5}
+\contentsline {subsection}{\numberline {2.3}IoT環境における分散台帳技術}{6}
+\contentsline {section}{\numberline {第3章}定性的な指標}{6}
+\contentsline {section}{\numberline {第4章}定量的な指標}{9}
+\contentsline {subsection}{\numberline {4.1}速度}{9}
+\contentsline {subsubsection}{\numberline {4.1.1}ノード間遅延}{9}
+\contentsline {subsubsection}{\numberline {4.1.2}承認時間}{9}
+\contentsline {subsection}{\numberline {4.2}コスト}{9}
+\contentsline {subsection}{\numberline {4.3}スケーラビリティ}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}キャパシティ}{9}
+\contentsline {subsubsection}{\numberline {4.3.2}ノード規模}{9}
+\contentsline {subsubsection}{\numberline {4.3.3}処理達成率}{9}
+\contentsline {section}{\numberline {第5章}定量的な分析}{9}
+\contentsline {subsection}{\numberline {5.1}シミュレータの設計}{10}
+\contentsline {subsection}{\numberline {5.2}分析}{10}
+\contentsline {section}{\numberline {第6章}考察}{10}
+\contentsline {section}{\numberline {第7章}まとめ}{10}
+\contentsline {section}{\hbox to\@tempdima {\hfil }謝辞}{10}
+\contentsline {section}{\hbox to\@tempdima {\hfil }参考文献}{10}
 \startAppendixtoc 
 \contentsline {section}{\hbox to\@tempdima {\hfil }付録}{A-1}
