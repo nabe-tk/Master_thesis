@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.4)  7 DEC 2018 18:47
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.4)  18 DEC 2018 05:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -845,66 +845,84 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [4]
 第 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--61
 
  []
 
 [5
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 73--76
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 [6]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 87.
-
-Underfull \hbox (badness 10000) in paragraph at lines 87--89
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 96--100
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 100.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 100.
 
+Overfull \hbox (56.07094pt too wide) in paragraph at lines 100--107
+ [] 
  []
 
 [9]
-第 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 194.
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
-Overfull \hbox (54.06786pt too wide) in paragraph at lines 194--195
+ []
+
+[10] [11]
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+
+ []
+
+[12]
+File: pic/tangle.png Graphic file (type bmp)
+<pic/tangle.png>
+ [13]
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
+
+ []
+
+[14] [15]
+第 3.
+
+Overfull \hbox (54.06784pt too wide) in paragraph at lines 256--257
  [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
-[10
+[16
 
-] [11] [12]
+] [17] [18]
 第 4.
-[13
+[19
 
-]
+] [20]
 第 5.
-[14
+[21
 
 ]
 第 6.
-[15
+[22
 
 ]
 第 7.
-(./master_thesis.bbl [16
+(./master_thesis.bbl [23
 
 ]
 Underfull \hbox (badness 1152) in paragraph at lines 42--46
@@ -918,21 +936,26 @@ Underfull \hbox (badness 1082) in paragraph at lines 48--52
 i, M.
  []
 
-[17
+[24
 
-]) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 249.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 249.
+]
+
+LaTeX Font Warning: Font shape `TU/ipaexm.ttf(0)/m/it' undefined
+(Font)              using `TU/ipaexm.ttf(0)/m/n' instead on input line 74.
+
+) [25]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 316.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 316.
  (./master_thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 249.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 249.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 316.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 316.
 Package rerunfilecheck Info: File `master_thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F8B2F6CAD1A6A7D5308DC6B754ED2720.
+(rerunfilecheck)             Checksum: EDC56E0F79815407749FBDFEFB452859.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 316.
  )
 (\end occurred when \iftrue on line 208 was incomplete)
 (\end occurred when \ifx on line 45 was incomplete)
@@ -940,12 +963,12 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 249.
 (\end occurred when \ifx on line 45 was incomplete)
 (\end occurred when \ifx on line 45 was incomplete) 
 Here is how much of TeX's memory you used:
- 26058 strings out of 492956
- 521604 string characters out of 6133502
- 628557 words of memory out of 5000000
- 29840 multiletter control sequences out of 15000+600000
+ 26095 strings out of 492956
+ 523339 string characters out of 6133502
+ 628715 words of memory out of 5000000
+ 29873 multiletter control sequences out of 15000+600000
  535666 words of font info for 63 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  48i,15n,76p,878b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on master_thesis.pdf (20 pages).
+Output written on master_thesis.pdf (27 pages).

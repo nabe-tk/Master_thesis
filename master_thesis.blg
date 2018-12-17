@@ -1,49 +1,50 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
+This is pBibTeX, Version 0.99d-j0.33 (utf8.euc) (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: master_thesis.aux
 The style file: apalike.bst
 Database file #1: ref.bib
 Warning--empty journal in Bouloukakis2016
 Warning--empty journal in nakamoto2008bitcoin
-You've used 12 entries,
+You've used 14 entries,
             1935 wiz_defined-function locations,
-            543 strings with 6407 characters,
-and the built_in function-call counts, 6098 in all, are:
-= -- 586
-> -- 333
-< -- 10
-+ -- 126
-- -- 120
-* -- 521
-:= -- 1034
-add.period$ -- 37
-call.type$ -- 12
-change.case$ -- 119
-chr.to.int$ -- 10
-cite$ -- 14
-duplicate$ -- 222
-empty$ -- 371
-format.name$ -- 134
-if$ -- 1207
+            554 strings with 6573 characters,
+and the built_in function-call counts, 6646 in all, are:
+= -- 639
+> -- 347
+< -- 12
++ -- 132
+- -- 124
+* -- 556
+:= -- 1139
+add.period$ -- 43
+call.type$ -- 14
+change.case$ -- 131
+chr.to.int$ -- 12
+cite$ -- 16
+duplicate$ -- 248
+empty$ -- 411
+format.name$ -- 140
+if$ -- 1310
 int.to.chr$ -- 3
 int.to.str$ -- 0
-missing$ -- 11
-newline$ -- 60
-num.names$ -- 36
-pop$ -- 125
+missing$ -- 13
+newline$ -- 70
+num.names$ -- 42
+pop$ -- 133
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 131
 quote$ -- 0
-skip$ -- 174
+skip$ -- 197
 stack$ -- 0
-substring$ -- 381
-swap$ -- 53
+substring$ -- 407
+swap$ -- 55
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 84
 warning$ -- 2
-while$ -- 46
+while$ -- 50
 width$ -- 0
-write$ -- 153
+write$ -- 178
+is.kanji.str$ -- 0
 (There were 2 warnings)
